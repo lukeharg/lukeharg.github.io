@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Luc Denereaz</title>
+    <link>http://lucdenz.github.io/posts/</link>
+    <description>Recent content in Posts on Luc Denereaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 1998 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lucdenz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alexander</title>
+      <link>http://lucdenz.github.io/posts/alexander/</link>
+      <pubDate>Tue, 13 Oct 1998 00:00:00 +0000</pubDate>
+      
+      <guid>http://lucdenz.github.io/posts/alexander/</guid>
+      <description>The Asian campaign conducted by Alexander the Great during the 330’s and 320’s BC was one of continual success. There is little doubt that these military successes owed a great debt to the resourcefulness and discipline of the Macedonian army that he inherited from his father. This essay will attempt therefore to illustrate and justify the air of supreme confidence that Alexander displayed when dealing with the forces of the Persian king Darius and attempt to show that this was not borne out of youthful ignorance, but of confidence in his generals and men.</description>
+    </item>
+    
+  </channel>
+</rss>
